@@ -5,6 +5,7 @@ Image Repo for Carplay Ai Box Wireless Carplay Netflix Android Box Car Multimedi
 Download Link: https://mega.nz/file/s0NhUbiI#XAZhTu6ITFYsTaTf0j3BBQNk30KKgCFcZDALaSopEiU
 
 ### UX999Pro Firmware 2022-03-18
+Download Link: https://mega.nz/file/stNTwBJD#1nMnYucHm_sQLfQX_yX8Ss9vs5SuPBIUAPVqyW8s_I0
 
 ## How to upgrade the firmware of the box without seeing the display screen and inoperable:
 
